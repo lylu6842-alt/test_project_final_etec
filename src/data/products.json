@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Matte Nail Polish - Coral",
+    "category": "Nail",
+    "price": 15.31,
+    "description": "Matte Nail Polish - Coral \u2014 a customer favorite in our nail collection.",
+    "color": "#e8a0bf",
+    "stock": 4,
+    "image": "https://i.pinimg.com/736x/1b/9e/ce/1b9ecec9f24c81e9d561f767e6e0d2e8.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gel Nail Polish - Ruby",
+    "category": "Nail",
+    "price": 16.41,
+    "description": "Gel Nail Polish - Ruby \u2014 a customer favorite in our nail collection.",
+    "color": "#f2d8a7",
+    "stock": 11,
+    "image": "https://i.pinimg.com/736x/54/11/92/541192c7369572a33d7f57828b800494.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Glossy Nail Polish - Blush",
+    "category": "Nail",
+    "price": 10.81,
+    "description": "Glossy Nail Polish - Blush \u2014 a customer favorite in our nail collection.",
+    "color": "#ff7f6b",
+    "stock": 27,
+    "image": "https://i.pinimg.com/736x/56/d3/bb/56d3bb31ba151950abbb961d9b838dc2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chrome Nail Powder",
+    "category": "Nail",
+    "price": 9.51,
+    "description": "Chrome Nail Powder \u2014 a customer favorite in our nail collection.",
+    "color": "#b02a37",
+    "stock": 27,
+    "image": "https://i.pinimg.com/1200x/d4/6c/c6/d46cc6306f44442059cbba32597858b8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "French Tip Press-On Set",
+    "category": "Nail",
+    "price": 18.04,
+    "description": "French Tip Press-On Set \u2014 a customer favorite in our nail collection.",
+    "color": "#5b7fa6",
+    "stock": 6,
+    "image": "https://i.pinimg.com/1200x/78/a0/35/78a035365c587b9859cd3d658bcedc2b.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Glitter Top Coat",
+    "category": "Nail",
+    "price": 14.78,
+    "description": "Glitter Top Coat \u2014 a customer favorite in our nail collection.",
+    "color": "#c9b7f0",
+    "stock": 5,
+    "image": "https://i.pinimg.com/736x/df/d8/15/dfd815ead2df6f41c0638828e2e5cf4e.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nail Care Kit",
+    "category": "Nail",
+    "price": 8.72,
+    "description": "Nail Care Kit \u2014 a customer favorite in our nail collection.",
+    "color": "#9fd3c7",
+    "stock": 10,
+    "image": "https://i.pinimg.com/1200x/41/c2/0a/41c20adc7e529e0c2fe6557fc17c8895.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Marble Nail Wraps",
+    "category": "Nail",
+    "price": 10.91,
+    "description": "Marble Nail Wraps \u2014 a customer favorite in our nail collection.",
+    "color": "#f4b183",
+    "stock": 23,
+    "image": "https://i.pinimg.com/736x/58/b1/8f/58b18f8429dbae17c6ca2b52f633c2aa.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Almond Press-On Nails",
+    "category": "Nail",
+    "price": 8.69,
+    "description": "Almond Press-On Nails \u2014 a customer favorite in our nail collection.",
+    "color": "#8fa8d6",
+    "stock": 10,
+    "image": "https://i.pinimg.com/736x/86/5c/15/865c1511ff63bf68b3276d0881f764d0.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Coffin Press-On Nails",
+    "category": "Nail",
+    "price": 16.13,
+    "description": "Coffin Press-On Nails \u2014 a customer favorite in our nail collection.",
+    "color": "#d68fa6",
+    "stock": 26,
+    "image": "https://i.pinimg.com/736x/f9/93/87/f99387471175803b9237623ae87ccef8.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Floral Nail Stickers",
+    "category": "Nail",
+    "price": 14.29,
+    "description": "Floral Nail Stickers \u2014 a customer favorite in our nail collection.",
+    "color": "#a3c9a8",
+    "stock": 11,
+    "image": "https://i.pinimg.com/736x/68/44/00/6844007a31abff6ce17ba275fb807a44.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pastel Ombre Nail Set",
+    "category": "Nail",
+    "price": 13.25,
+    "description": "Pastel Ombre Nail Set \u2014 a customer favorite in our nail collection.",
+    "color": "#e6c79c",
+    "stock": 12,
+    "image": "https://i.pinimg.com/736x/be/83/b8/be83b8b44edad766ea3acde38a687b13.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Cat Eye Gel Polish",
+    "category": "Nail",
+    "price": 17.14,
+    "description": "Cat Eye Gel Polish \u2014 a customer favorite in our nail collection.",
+    "color": "#c2a8e0",
+    "stock": 4,
+    "image": "https://i.pinimg.com/1200x/a3/3c/ec/a33cec022776830cc4de219e0b85025a.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Rhinestone Nail Charms",
+    "category": "Nail",
+    "price": 16.6,
+    "description": "Rhinestone Nail Charms \u2014 a customer favorite in our nail collection.",
+    "color": "#f0a6a6",
+    "stock": 9,
+    "image": "https://i.pinimg.com/736x/6c/e1/3c/6ce13ce8a8ae04d20422de126aa61970.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Milky White Gel Polish",
+    "category": "Nail",
+    "price": 15.94,
+    "description": "Milky White Gel Polish \u2014 a customer favorite in our nail collection.",
+    "color": "#a6d1e0",
+    "stock": 14,
+    "image": "https://i.pinimg.com/736x/29/9e/26/299e2613e3f10d3e4939011da1662780.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Nude Nail Polish",
+    "category": "Nail",
+    "price": 11.4,
+    "description": "Nude Nail Polish \u2014 a customer favorite in our nail collection.",
+    "color": "#d1b28c",
+    "stock": 10,
+    "image": "https://i.pinimg.com/736x/c7/0b/cc/c70bcc83492075c36552fb1ac720fa63.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Metallic Foil Nail Wraps",
+    "category": "Nail",
+    "price": 18.74,
+    "description": "Metallic Foil Nail Wraps \u2014 a customer favorite in our nail collection.",
+    "color": "#b8d8be",
+    "stock": 14,
+    "image": "https://i.pinimg.com/736x/eb/51/44/eb51445ea0f54e04a1ca7e05483f75ce.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Square Press-On Nails",
+    "category": "Nail",
+    "price": 9.5,
+    "description": "Square Press-On Nails \u2014 a customer favorite in our nail collection.",
+    "color": "#e0b8d8",
+    "stock": 16,
+    "image": "https://i.pinimg.com/736x/bb/02/e7/bb02e7057233294c612bf796030cd43c.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Holographic Top Coat",
+    "category": "Nail",
+    "price": 9.44,
+    "description": "Holographic Top Coat \u2014 a customer favorite in our nail collection.",
+    "color": "#9cb8d8",
+    "stock": 15,
+    "image": "https://sweetienailsupply.com/cdn/shop/files/e871d89497200e9bad6a8e90c97c094b.jpg?v=1759164638&width=1000"
+  },
+  {
+    "id": 20,
+    "name": "Nail Art Brush Set",
+    "category": "Nail",
+    "price": 14.92,
+    "description": "Nail Art Brush Set \u2014 a customer favorite in our nail collection.",
+    "color": "#d8c39c",
+    "stock": 29,
+    "image": "https://i.pinimg.com/736x/39/78/09/397809d07e989e979d711fab4b8c40b6.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Cotton Crewneck T-Shirt",
+    "category": "Clothes",
+    "price": 25.87,
+    "description": "Cotton Crewneck T-Shirt \u2014 a customer favorite in our clothes collection.",
+    "color": "#e8a0bf",
+    "stock": 18,
+    "image": "https://i.pinimg.com/1200x/3d/87/dd/3d87dd3cf28568a0b62dab2886f40b31.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Oversized Hoodie",
+    "category": "Clothes",
+    "price": 41.39,
+    "description": "Oversized Hoodie \u2014 a customer favorite in our clothes collection.",
+    "color": "#f2d8a7",
+    "stock": 16,
+    "image": "https://i.pinimg.com/1200x/b5/6f/6a/b56f6a1ddde534613619df870fb7c119.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Slim Fit Jeans",
+    "category": "Clothes",
+    "price": 26.98,
+    "description": "Slim Fit Jeans \u2014 a customer favorite in our clothes collection.",
+    "color": "#ff7f6b",
+    "stock": 13,
+    "image": "https://i.pinimg.com/736x/d3/4c/6e/d34c6edd0869da0bb9d7c70ca10872c5.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Linen Button-Up Shirt",
+    "category": "Clothes",
+    "price": 50.63,
+    "description": "Linen Button-Up Shirt \u2014 a customer favorite in our clothes collection.",
+    "color": "#b02a37",
+    "stock": 23,
+    "image": "https://i.pinimg.com/1200x/f3/7c/0b/f37c0b5a340da6aa84034cdabbd4fa9b.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Cropped Denim Jacket",
+    "category": "Clothes",
+    "price": 52.39,
+    "description": "Cropped Denim Jacket \u2014 a customer favorite in our clothes collection.",
+    "color": "#5b7fa6",
+    "stock": 15,
+    "image": "https://i.pinimg.com/736x/99/e9/aa/99e9aa21f05928d50848c9387169b4bf.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Knit Cardigan",
+    "category": "Clothes",
+    "price": 42.69,
+    "description": "Knit Cardigan \u2014 a customer favorite in our clothes collection.",
+    "color": "#c9b7f0",
+    "stock": 26,
+    "image": "https://i.pinimg.com/736x/6e/df/83/6edf83aa37a3bbde3ef6f106ecfd0855.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Wide-Leg Trousers",
+    "category": "Clothes",
+    "price": 26.69,
+    "description": "Wide-Leg Trousers \u2014 a customer favorite in our clothes collection.",
+    "color": "#9fd3c7",
+    "stock": 25,
+    "image": "https://i.pinimg.com/736x/ae/7a/ac/ae7aac56d3d29d086c3e902edd0dd17a.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Graphic Print Tee",
+    "category": "Clothes",
+    "price": 31.68,
+    "description": "Graphic Print Tee \u2014 a customer favorite in our clothes collection.",
+    "color": "#f4b183",
+    "stock": 13,
+    "image": "https://i.pinimg.com/736x/55/a2/f5/55a2f51e2c851ed90a9fb673c1108799.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Fleece Zip-Up Jacket",
+    "category": "Clothes",
+    "price": 55.53,
+    "description": "Fleece Zip-Up Jacket \u2014 a customer favorite in our clothes collection.",
+    "color": "#8fa8d6",
+    "stock": 11,
+    "image": "https://i.pinimg.com/736x/b4/d4/10/b4d410fcb41b6fa38e17454f7b29a56a.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Pleated Midi Skirt",
+    "category": "Clothes",
+    "price": 51.79,
+    "description": "Pleated Midi Skirt \u2014 a customer favorite in our clothes collection.",
+    "color": "#d68fa6",
+    "stock": 16,
+    "image": "https://i.pinimg.com/1200x/03/08/ad/0308ad4d830998208fc90807e63b3efb.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ribbed Tank Top",
+    "category": "Clothes",
+    "price": 33.26,
+    "description": "Ribbed Tank Top \u2014 a customer favorite in our clothes collection.",
+    "color": "#a3c9a8",
+    "stock": 24,
+    "image": "https://i.pinimg.com/736x/86/33/e1/8633e1c32daef3ec47e90297b00d8661.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Plaid Flannel Shirt",
+    "category": "Clothes",
+    "price": 50.77,
+    "description": "Plaid Flannel Shirt \u2014 a customer favorite in our clothes collection.",
+    "color": "#e6c79c",
+    "stock": 9,
+    "image": "https://i.pinimg.com/736x/cd/22/a7/cd22a7d0ae1d6a606d92c22bd34c255b.jpg"
+  },
+  {
+    "id": 113,
+    "name": "High-Waist Leggings",
+    "category": "Clothes",
+    "price": 36.16,
+    "description": "High-Waist Leggings \u2014 a customer favorite in our clothes collection.",
+    "color": "#c2a8e0",
+    "stock": 10,
+    "image": "https://i.pinimg.com/1200x/16/5e/4f/165e4fe19c3afb603333fd7a0a495fff.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Bomber Jacket",
+    "category": "Clothes",
+    "price": 45.61,
+    "description": "Bomber Jacket \u2014 a customer favorite in our clothes collection.",
+    "color": "#f0a6a6",
+    "stock": 26,
+    "image": "https://i.pinimg.com/736x/4b/65/9c/4b659c1eb19746e1c6335b653842f161.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Striped Long Sleeve Top",
+    "category": "Clothes",
+    "price": 54.0,
+    "description": "Striped Long Sleeve Top \u2014 a customer favorite in our clothes collection.",
+    "color": "#a6d1e0",
+    "stock": 24,
+    "image": "https://i.pinimg.com/1200x/97/af/cb/97afcb15f8a56cdcb22831c5ba0f67b0.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Corduroy Overalls",
+    "category": "Clothes",
+    "price": 26.75,
+    "description": "Corduroy Overalls \u2014 a customer favorite in our clothes collection.",
+    "color": "#d1b28c",
+    "stock": 24,
+    "image": "https://i.pinimg.com/1200x/9a/00/09/9a0009be2d618b44c9e6a13c6b198e4b.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Turtleneck Sweater",
+    "category": "Clothes",
+    "price": 29.89,
+    "description": "Turtleneck Sweater \u2014 a customer favorite in our clothes collection.",
+    "color": "#b8d8be",
+    "stock": 27,
+    "image": "https://i.pinimg.com/1200x/c6/d7/38/c6d73861bc9cfe0b81e19c483d04b030.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Cargo Pants",
+    "category": "Clothes",
+    "price": 32.21,
+    "description": "Cargo Pants \u2014 a customer favorite in our clothes collection.",
+    "color": "#e0b8d8",
+    "stock": 18,
+    "image": "https://i.pinimg.com/736x/1a/e1/c1/1ae1c19173691c74db4a250c44a628a0.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Silk Blouse",
+    "category": "Clothes",
+    "price": 36.45,
+    "description": "Silk Blouse \u2014 a customer favorite in our clothes collection.",
+    "color": "#9cb8d8",
+    "stock": 24,
+    "image": "https://i.pinimg.com/736x/6b/cf/f6/6bcff6e58b7007977584ccb11b40295b.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Puffer Vest",
+    "category": "Clothes",
+    "price": 46.18,
+    "description": "Puffer Vest \u2014 a customer favorite in our clothes collection.",
+    "color": "#d8c39c",
+    "stock": 11,
+    "image": "https://i.pinimg.com/1200x/7a/74/71/7a74710a201500d9a08c78b80062efb3.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Classic Cotton Dress",
+    "category": "Dress",
+    "price": 72.39,
+    "description": "Classic Cotton Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#e8a0bf",
+    "stock": 30,
+    "image": "https://i.pinimg.com/1200x/37/3f/89/373f89c0477b092df470cc9e2a641599.jpg"
+  },
+  {
+    "id": 202,
+    "name": "Linen Summer Dress",
+    "category": "Dress",
+    "price": 76.53,
+    "description": "Linen Summer Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#f2d8a7",
+    "stock": 5,
+    "image": "https://i.pinimg.com/1200x/95/8a/ab/958aab6839cb72ee299e8ab557fa79e7.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Denim Wrap Dress",
+    "category": "Dress",
+    "price": 49.84,
+    "description": "Denim Wrap Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#ff7f6b",
+    "stock": 5,
+    "image": "https://i.pinimg.com/736x/a2/02/18/a20218934565c21f5d1b6efbaafb000b.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Floral Midi Dress",
+    "category": "Dress",
+    "price": 78.35,
+    "description": "Floral Midi Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#b02a37",
+    "stock": 16,
+    "image": "https://i.pinimg.com/736x/b7/f5/6c/b7f56c180a0b437c42798888ec9a5189.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Satin Slip Dress",
+    "category": "Dress",
+    "price": 51.75,
+    "description": "Satin Slip Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#5b7fa6",
+    "stock": 10,
+    "image": "https://i.pinimg.com/736x/80/86/40/8086400ed0151300a41ef65e0edb732d.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Off-Shoulder Sundress",
+    "category": "Dress",
+    "price": 83.7,
+    "description": "Off-Shoulder Sundress \u2014 a customer favorite in our dress collection.",
+    "color": "#c9b7f0",
+    "stock": 22,
+    "image": "https://i.pinimg.com/736x/6b/70/36/6b703698e8ab961e7f8e62e246d58d1a.jpg"
+  },
+  {
+    "id": 207,
+    "name": "A-Line Party Dress",
+    "category": "Dress",
+    "price": 81.88,
+    "description": "A-Line Party Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#9fd3c7",
+    "stock": 14,
+    "image": "https://i.pinimg.com/1200x/ad/26/82/ad2682c3adf7740a4c9c221be7d9c8af.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Velvet Evening Gown",
+    "category": "Dress",
+    "price": 49.03,
+    "description": "Velvet Evening Gown \u2014 a customer favorite in our dress collection.",
+    "color": "#f4b183",
+    "stock": 19,
+    "image": "https://i.pinimg.com/1200x/f7/d7/d2/f7d7d2b8758e17486508053fa7dc81f2.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Polka Dot Dress",
+    "category": "Dress",
+    "price": 58.08,
+    "description": "Polka Dot Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#8fa8d6",
+    "stock": 24,
+    "image": "https://i.pinimg.com/1200x/c2/36/90/c23690c314db22064f76b5568bddb7d1.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Bohemian Maxi Dress",
+    "category": "Dress",
+    "price": 61.21,
+    "description": "Bohemian Maxi Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#d68fa6",
+    "stock": 12,
+    "image": "https://i.pinimg.com/736x/fc/21/35/fc2135f1356f17aa6f6e1dc026e0fafc.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Ruffle Sleeve Dress",
+    "category": "Dress",
+    "price": 45.41,
+    "description": "Ruffle Sleeve Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#a3c9a8",
+    "stock": 27,
+    "image": "https://i.pinimg.com/736x/8a/9c/10/8a9c1016ed6b89058a77e1baf1e9bdcf.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Knit Sweater Dress",
+    "category": "Dress",
+    "price": 66.29,
+    "description": "Knit Sweater Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#e6c79c",
+    "stock": 12,
+    "image": "https://i.pinimg.com/736x/f9/a9/5d/f9a95d5811da7fe478f034fe42a48307.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Tiered Chiffon Dress",
+    "category": "Dress",
+    "price": 75.48,
+    "description": "Tiered Chiffon Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#c2a8e0",
+    "stock": 17,
+    "image": "https://i.pinimg.com/736x/20/ac/9c/20ac9c3a2258393c30178f93ccc2d310.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Halter Neck Dress",
+    "category": "Dress",
+    "price": 82.94,
+    "description": "Halter Neck Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#f0a6a6",
+    "stock": 16,
+    "image": "https://i.pinimg.com/1200x/8c/2d/10/8c2d1036adc82eab740668cf7725a053.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Puff Sleeve Mini Dress",
+    "category": "Dress",
+    "price": 56.42,
+    "description": "Puff Sleeve Mini Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#a6d1e0",
+    "stock": 8,
+    "image": "https://i.pinimg.com/736x/00/7b/08/007b08b82aaca2e46c2579545a1d2e5a.jpg"
+  },
+  {
+    "id": 216,
+    "name": "Wrap Front Dress",
+    "category": "Dress",
+    "price": 63.72,
+    "description": "Wrap Front Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#d1b28c",
+    "stock": 6,
+    "image": "https://i.pinimg.com/1200x/40/45/8f/40458f417c39b39da0ac2cd7c6d8a747.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Lace Trim Dress",
+    "category": "Dress",
+    "price": 75.91,
+    "description": "Lace Trim Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#b8d8be",
+    "stock": 7,
+    "image": "https://i.pinimg.com/1200x/7b/c8/9d/7bc89d1619df91a2df5c69fa22981235.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Pinafore Denim Dress",
+    "category": "Dress",
+    "price": 46.07,
+    "description": "Pinafore Denim Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#e0b8d8",
+    "stock": 9,
+    "image": "https://i.pinimg.com/1200x/4c/47/74/4c4774fa377e55582fe22fe35fe6f582.jpg"
+  },
+  {
+    "id": 219,
+    "name": "Sleeveless Shift Dress",
+    "category": "Dress",
+    "price": 77.71,
+    "description": "Sleeveless Shift Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#9cb8d8",
+    "stock": 17,
+    "image": "https://i.pinimg.com/1200x/a4/8c/9d/a48c9d6706337a37a4ab5913c9c72214.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Tie-Waist Shirt Dress",
+    "category": "Dress",
+    "price": 68.02,
+    "description": "Tie-Waist Shirt Dress \u2014 a customer favorite in our dress collection.",
+    "color": "#d8c39c",
+    "stock": 16,
+    "image": "https://i.pinimg.com/1200x/7d/f4/51/7df4518dac98567437b1ea112a90eb4a.jpg"
+  }
+]
